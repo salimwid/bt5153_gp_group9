@@ -2,7 +2,7 @@
 This is the Github repository for Group 9 Final Project for BT5153 Class Semester 2 2022. <br>
 
 To clarify the codes submitted, below are the details: <br>
-<h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4><br>
+-  <h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4><br>
 -  <strong> File Name: </strong>content_based_recommendation.ipynb <br>
 <strong> Packages used:</strong> pandas, numpy, sklearn, preprocessing (see file description below) <br>
 <strong> Description: </strong><br>
