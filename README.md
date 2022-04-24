@@ -1,7 +1,7 @@
 # BT5153 Group Project (Group 9) - Airbnb Smart Scan
 This is the Github repository for Group 9 Final Project for BT5153 Class Semester 2 2022. <br>
 
-To clarify the codes submitted, below are the details: <br>
+To clarify the codes submitted, below are the details:
 <h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4>
 <ul> 
 <li> <strong> File Name: </strong>content_based_recommendation.ipynb <br>
@@ -46,3 +46,5 @@ This notebook does sentiment analysis of the listing reviews files.<br>
 The input is the reviews which were pre-processed with VADER to do lemmatization without cleaning.<br>
 The sentiment analysis done was polarity scores of the reviews, which are then grouped into either Positive, Negative or Neutral sentiments. Reviews which were not in English were dropped.</li><br>
 </ul>
+
+<h4> Datasets used were listed under the folders 'computed_featured' and 'data'.</h4>
