@@ -2,7 +2,7 @@
 This is the Github repository for Group 9 Final Project for BT5153 Class Semester 2 2022. <br>
 
 To clarify the codes submitted, below are the details:
-<h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4>
+<h4> 1. Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4>
 <ul> 
 <li> <strong> File Name: </strong>content_based_recommendation.ipynb <br>
 <strong> Packages used:</strong> pandas, numpy, sklearn, preprocessing (see file description below) <br>
@@ -27,7 +27,7 @@ Prior to training and running the models, the following steps were implemented:<
 (2) Data preprocessing steps, including MICE imputation, feature selection, one hot key encoding, scaling and more.<br>
 Models run and tuned were: LightGBM, XGBoost, Simple OLS, Random Forest and Stacked Regressors.</li></ul>
 
-<h4> Codes listed in the folder 'eda_and_feature_engineering':</h4>
+<h4> 2. Codes listed in the folder 'eda_and_feature_engineering':</h4>
 <ul>
 <li><strong> File Name: </strong>eda.ipynb <br>
 <strong> Packages used:</strong> pandas, seaborn, numpy, matplotlib <br>
@@ -44,7 +44,6 @@ Merge listings dataset with London stations dataset so that for each listing, th
 <strong> Description: </strong><br>
 This notebook does sentiment analysis of the listing reviews files.<br>
 The input is the reviews which were pre-processed with VADER to do lemmatization without cleaning.<br>
-The sentiment analysis done was polarity scores of the reviews, which are then grouped into either Positive, Negative or Neutral sentiments. Reviews which were not in English were dropped.</li><br>
+The sentiment analysis done was polarity scores of the reviews, which are then grouped into either Positive, Negative or Neutral sentiments. Reviews which were not in English were dropped.</li>
 </ul>
-
-<h4> Datasets used were listed under the folders 'computed_featured' and 'data'.</h4>
+<h4> 3. Datasets used were listed under the folders 'computed_featured' and 'data'.</h4>
