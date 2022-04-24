@@ -2,7 +2,7 @@
 This is the Github repository for Group 9 Final Project for BT5153 Class Semester 2 2022. <br>
 
 To clarify the codes submitted, below are the details: <br>
-<h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4><br>
+<h4> Codes listed in the folder 'preprocessing_models_and_recommender_system':</h4>
 <ul> 
 <li> <strong> File Name: </strong>content_based_recommendation.ipynb <br>
 <strong> Packages used:</strong> pandas, numpy, sklearn, preprocessing (see file description below) <br>
@@ -28,7 +28,7 @@ Prior to training and running the models, the following steps were implemented:<
 Models run and tuned were: LightGBM, XGBoost, Simple OLS, Random Forest and Stacked Regressors.</li></ul>
 <br>
 
-<h4> Codes listed in the folder 'eda_and_feature_engineering':<br></h4>
+<h4> Codes listed in the folder 'eda_and_feature_engineering':</h4>
 <ul>
 <li><strong> File Name: </strong>eda.ipynb <br>
 <strong> Packages used:</strong> pandas, seaborn, numpy, matplotlib <br>
