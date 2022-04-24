@@ -26,7 +26,6 @@ Prior to training and running the models, the following steps were implemented:<
 (1) Merging all data (sentiments, listings, engineered features and location data)<br>
 (2) Data preprocessing steps, including MICE imputation, feature selection, one hot key encoding, scaling and more.<br>
 Models run and tuned were: LightGBM, XGBoost, Simple OLS, Random Forest and Stacked Regressors.</li></ul>
-<br>
 
 <h4> Codes listed in the folder 'eda_and_feature_engineering':</h4>
 <ul>
